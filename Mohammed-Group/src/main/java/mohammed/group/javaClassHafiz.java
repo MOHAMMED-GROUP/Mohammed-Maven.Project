@@ -7,6 +7,7 @@ public class javaClassHafiz {
 		
 		
 		System.out.println(" This is practice for git  ");
+		System.out.println(" This is practice for git  ");
 		
 	}            
 
